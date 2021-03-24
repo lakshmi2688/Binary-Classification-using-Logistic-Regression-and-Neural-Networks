@@ -24,7 +24,7 @@
  
 <h2><strong>Links to artifacts</strong></h2>
 <ul>
-<li><a href='https://github.com/lakshmi2688/lakshmi2688.github.io/blob/master/assets/planar_utils.py'>Utility file</a></li>
-<li><a href="https://github.com/lakshmi2688/lakshmi2688.github.io/blob/master/assets/Binary_Classification.ipynb">Source code</a></li>
+<li><a href='assets/planar_utils.py'>Utility file</a></li>
+<li><a href="assets/Binary_Classification.ipynb">Source code</a></li>
 </ul>
 
